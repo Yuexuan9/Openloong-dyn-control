@@ -201,7 +201,7 @@ DataBus::LegState legState=DataBus::RS;                //初始腾空腿
 @software{Robot2024OpenLoong,
   author = {Humanoid Robot (Shanghai) Co., Ltd},
   title = {{OpenLoong-DynamicsControl: Motion control framework of humanoid robot based on MPC and WBC}},
-  url = {https://atomgit.com/openloong/openloong-dyn-control.git},
+  url = {https://github.com/loongOpen/Openloong-dyn-control.git},
   year = {2024}
 }
 ```
